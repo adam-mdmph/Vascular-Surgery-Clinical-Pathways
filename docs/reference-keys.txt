@@ -1,4 +1,3 @@
-about
 usage
 additional-resources
 evar

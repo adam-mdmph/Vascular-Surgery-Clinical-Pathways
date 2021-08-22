@@ -16,7 +16,7 @@ github-repo: https://github.com/adam-mdmph/Vascular-Surgery-Clinical-Pathways.gi
 site: bookdown::bookdown_site
 ---
 
-# About
+# About {-}
 
 This book is to be used as a resource for vascular surgery trainees as a quick reference in caring for the vascular surgery patient based on the must up to date available evidence.
 
