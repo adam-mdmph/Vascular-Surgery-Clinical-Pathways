@@ -1,14 +1,9 @@
 Welcome! 
 
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
+This is a draft of an online "User Manual" for a vascular surgery service.  While going through training I always wish I had a quick reference for all the ways things were done at my institution.  I found textbooks useful, but my attendings or instituion always did things a little different or there had been more updated reports that had slightly different recommendations.  I wish I had an institution/surgeon specific reference for the different care pathways so that I could make sure that every patient got the same high quality care every time.
 
-This template provides a skeleton file structure that you can edit to create your book. 
+The goal of this document is as a template based around some of the best recommendations, but that can be easily customizable for each local institution/surgeon.  The online format allows for embedding of links, citations, decision aids and far more that are not available in other digital or print media.
 
-The contents inside the .Rmd files provide some pointers to help you get started, but feel free to also delete the content in each file and start fresh.
+Thank you for joining in this collaborative effort.
 
-Additional resources:
-
-The **bookdown** book: https://bookdown.org/yihui/bookdown/
-
-The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
-# Vascular-Surgery-Clinical-Pathways
+Adam Johnson, MD, MPH
