@@ -1,0 +1,47 @@
+# TEVAR
+
+Patients with thoracic aneurysms or type B dissections with significant comorbidities can be repaired with custom fenestrated endovascular devices. This can be done as a standalone procedure or as part of a staged repair of a more extensive aneurysm.  Disposition for these patients is often limited more by their comorbidities instead of the procedure themselves.
+
+## Common issues
+1. **Femoral access issues** – the majority of procedures are performed with percutaneous access, but many require a cut-down and arterial repair if there are issues with large bore femoral access.  If you are called to evaluate determine hemodynamic stability of the patient, presence of hematoma, ecchymosis, pseudoaneurysm or active bleeding.  Most can be solved with additional pressure but may require a skin stitch or further evaluation with imaging.
+2. **Endoleak** – Most endoleaks should be corrected before leaving the OR, but some patients have small Type 1 or 2 endoleaks that can be watched and may seal on their own.  It is important for the team to be aware of patients with ongoing leaks in the perioperative period.
+3. **Acute graft syndrome** – Patients sometimes have a physiologic response to graft implantation that includes abdominal pain, fever, leukocytosis, and thrombocytopenia.  These patients should have a traditional fever workup to rule out other causes of sepsis, but if more dangerous etiologies are ruled out, this can be managed conservatively.
+4. **Colonic ischemia** – The IMA is covered in all of these procedures.  Rarely, this results in colonic ischemia.  This presents with worsening abdominal pain, bloody stools and signs of sepsis.   Immediate management should be resuscitation and endoscopy.
+5. **Visceral arterial occlusion** – The SMA, Celiac and renal arteries are accessed and stented during these procedures.  They should be followed closely for signs of hepatic, mesenteric or renal ischemia.
+6. **Spinal ischemia** – depending on the extent of the aneurysm these patients are at high risk for spinal ischemia.  Preventative measures to reduce spinal ischemia include optimizing tissue oxygenation by avoiding anemia and hypotension and spinal drain placement.  Important physical exam findings are hip flexion.
+7. **Retrograde dissection**
+8. **Antegrade dissection**
+
+## Post-op Pathway
+
+### POD 0
+- Level of care: SICU
+- Diet: NPO on maintenance IVF
+- Activity: Bedrest
+- Patient parameters
+  * SBP 140-180, MAP 90
+  * Hgb > 10
+  * Plts > 100
+  * INR < 1.4
+- Labs:
+  * SICU: CBC, Chem 7, LFTs, coags, lactate, ABG
+  * AM: CBC, Chem 7, LFTs, coags, lactate, ABG
+- Nursing:
+  * Neurovascular checks bilateral lower extremities
+  * Spinal drain monitoring
+- Wound care
+  * Ace wrap to arm if brachial access utilized.
+- Medications
+  * Pain – non-opiates often sufficient
+  * Cardiac – Drips to maintain BP parameters, especially important if spinal drain in place and high risk for spinal cord ischemia
+  * Antibiotics – 24hr perioperative abx (Ancef 2g q8 x2 doses)
+  * Heme – DVT PPx, make sure to hold around the time of spinal drain removal.
+
+### POD 1-3
+
+Advance with BP within range without drips and spinal drain removed
+
+- Level of care: Transfer to stepdown
+- Diet: Comorbidity specific diet
+- Activity: Ambulate TID
+- Wound care: Remove bilateral groin dressing.

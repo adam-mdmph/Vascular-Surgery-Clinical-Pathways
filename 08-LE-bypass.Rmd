@@ -1,0 +1,58 @@
+# Lower extremity bypass or open endarterectomy
+
+Patients undergo bypass in the acute or elective setting.  Patients usually stay for 3-5 days post-operatively.
+
+## Common issues
+1. **Managing comorbidities** - These are often patients with significant comorbidities that often extend the post-operative course more than issues related to their surgeries.  Close attention should be paid to their home medications and management of underlying cardiac disease, hypertension, diabetes or cerebrovascular disease.
+2. **Bleeding** - These patients should be monitored closely for bleeding, particularly when on anticoagulation
+3. **Graft occlusion** - Any increasing pain, change in neuro exam, or loss of signals in the operative extremity should be escalated quickly as this can be a sign of early graft failure which is likely a technical issue and can be salvaged if acted upon quickly.
+4. **Wound infection** – Groin wounds are particularly prone to infection.  We sometimes utilize Prevena VAC dressings over a closed wound to reduce the risk of infection.  These wounds should be kept dry and evaluated daily to ensure no signs of dehiscence or infection.  Unlikely to present in the immediate post-operative period, but should be kept in mind.
+
+## Perioperative Pathway
+
+### POD 0
+- Level of care: Stepdown
+- Diet: Comorbidity specific diet
+- Activity: Bedrest overnight
+- Labs:
+  * PACU: CBC, Chem 7 depending blood loss and comorbidities
+  * AM: CBC, Chem 7
+- Nursing:
+  * Foley
+  * Neurovascular checks per protocol
+- Wound care
+  * Elevate on 2 pillows
+  * Dressing and ace wrapping is attending and patient specific
+- Medications
+  * Pain – standing Tylenol, PCA
+  * Cardiac – restart home BP meds
+  * Antibiotics – 24hr perioperative abx (Ancef 2g q8 x2 doses)
+  * Heme – DVT ppx, aspirin 81
+  * Plavix and AC pending attending discretion
+  * Endocrine – Insulin CDI
+
+### POD 1
+- Level of care: Floor status if no cardiac events overnight
+- Activity: OOB with assistance, PT/OT evaluation for dispo planning
+- Labs: AM CBC, Chem 7
+- Nursing:
+  * D/C Foley, DTV
+  * Continue neurovascular checks
+- Wound care
+  * Takedown wrap
+  * Leave dressing if no concerns for infection or bleeding, remove if any question
+- Medications
+  * Pain – transition to PO regimen
+  * Cardiac – Continue home medications
+  * Antibiotics – Stop if no signs of infection or distal signs of gangrene
+  * Endocrine – titrate insulin after starting a diet
+
+### POD 2 - Discharge
+- Activity: Ambulate TID
+- Labs: AM CBC, Chem 7
+- Wound care: All dressings should be removed, and dressing wound with dry gauze per patient preference
+- Medications
+  * Hep lock if possible
+- Dispo planning
+  * Follow up on PT/OT evaluation, coordinate potential rehab or
+  * Patient education – signs, and symptoms of acute limb ischemia

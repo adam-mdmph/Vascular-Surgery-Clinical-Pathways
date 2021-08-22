@@ -1,0 +1,33 @@
+# Amputation
+
+Length of stay is often limited by management of patient comorbidities.  However, if well controlled, length of stay is usually 4-5 days pending adequate stump healing and evaluation by physical therapy.
+
+## Common Issues
+1. **Wound infection or flap ischemia** – sometimes it is difficult to distinguish, and these can present with erythema and drainage.  Both may require washout and revision and should be monitored closely.
+
+## Perioperative Pathway
+
+### POD 0 
+- Level of care: 7 Hudson North
+- Diet: Comorbidity specific diet
+- Activity: Bedrest
+  * BKA: with knee immobilizer.
+- Labs:
+  * PACU: CBC, Chem 7 depending blood loss and comorbidities
+  * AM: CBC, Chem 7
+- Nursing:
+  * Wound care: Dressing to be changed by MD
+- Medications:
+  * Pain - Standing non-opiate analgesics and PCA
+  * Restart home medications
+  * Heme - DVT prophylaxis
+  * Infectious disease - Stop antibiotics after 24hrs if operative site is clean, even when amputations are performed for infection
+    + Bacteremia related to wound for which amputation is performed - continue antibiotics for 2 weeks to treat for bacteremia
+
+### POD 1-3
+- Activity: OOB with assistance, PT/OT evaluation
+- Medications
+- Pain - Transition to oral medications with IV medications for breakthrough
+
+### POD 4
+- Wound care: Ensure adequate pain control and remove dressings.  Dry dressings only as needed.  Evaluate leg for any pressure wounds and determine the need for immobilization

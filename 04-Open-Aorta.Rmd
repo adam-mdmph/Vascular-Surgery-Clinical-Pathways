@@ -1,0 +1,84 @@
+# Open abdominal or thoracoabdominal aorta aneurysm repair
+
+Patients usually stay for 5-7 days requiring a day or two in the ICU.
+
+## Common issues
+
+1.  **Visceral arterial occlusion** -- The SMA, Celiac and renal arteries are accessed and stented during these procedures. They should be followed closely for signs of hepatic, mesenteric or renal ischemia.
+2.  **Spinal ischemia** -- depending on the extent of the aneurysm these patients are at high risk for spinal ischemia. Preventative measures to reduce spinal ischemia include optimizing tissue oxygenation by avoiding anemia and hypotension and spinal drain placement. Important physical exam findings are hip flexion.
+3.  These patients are very high risk for standard peri-operative complications of pneumonia, DVT and wound infection. We should monitor closely and manage prophylactic measures aggressively.
+
+## Post-op Pathway
+
+### POD 0-1
+
+-   Level of care: SICU
+
+-   Diet: NPO on maintenance IVF
+
+-   Activity: Bedrest
+
+-   Patient parameters - keep attending updated on labs (normal or abnormal) and patient condition every 6-12hrs
+
+    -   SBP 140-180, MAP 90
+    -   Hgb \> 10
+    -   Plts \> 100
+    -   INR \< 1.4
+
+-   Labs:
+
+    -   q6hr CBC, Chem 7, LFTs, coags, lactate, ABG
+
+-   Nursing:
+
+    -   Neurovascular checks bilateral lower extremities
+    -   Spinal drain monitoring
+
+-   Wound care
+
+    -   Ace wrap to arm if brachial access utilized.
+
+-   Medications
+
+    -   Pain -- Sedation/pain control per ICU
+    -   Cardiac -- Drips to maintain BP parameters, especially important if spinal drain in place and high risk for spinal cord ischemia
+    -   Antibiotics -- 24hr perioperative abx (Ancef 2g q8 x2 doses)
+    -   Heme -- DVT PPx, make sure to hold around the time of spinal drain removal.
+
+### POD 2
+
+-   For the most part, the patient stays sedated and no major changes.
+-   Remove R femoral 5fr sheath with vascade
+
+### POD 3-4
+
+-   Neuro
+
+    -   Wean sedation and pain control
+    -   Keep spinal drain until thorough neuro exam completed and stable
+
+-   Cardiac
+
+    -   Pressors or antihypertensives to maintain SBP 140-180s, MAPs 90
+    -   Monitor for arrhythmias and start beta-blocker of pressure can tolerate
+
+-   Pulmonary
+
+    -   Wean to extubate
+
+-   GI
+
+    -   Keep NPO, no duo tube or feeding prior to extubation
+    -   GI prophylaxis while intubated
+
+-   Renal
+
+    -   Follow hemodynamics and diuresis when pressures will tolerate
+
+-   Infectious disease
+
+    -   No antibiotics after initial 24hrs
+
+-   Heme - DVT PPx, make sure to hold around the time of spinal drain removal.
+
+-   Disposition - Transfer to step down and floor pending perioperative hemodynamics. PT/OT eval and mobilization encouraged.

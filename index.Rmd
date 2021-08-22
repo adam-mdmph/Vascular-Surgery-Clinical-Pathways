@@ -1,0 +1,34 @@
+--- 
+title: "Vascular Surgery Clinical Pathways"
+author: "Adam P. Johnson MD, MPH"
+date: "`r Sys.Date()`"
+output:
+  word_document: default
+  pdf_document: default
+documentclass: book
+bibliography:
+- book.bib
+- packages.bib
+description: |
+  This is aimed at a resource of caring for the vascular surgery patient
+link-citations: yes
+github-repo: https://github.com/adam-mdmph/Vascular-Surgery-Clinical-Pathways.git
+site: bookdown::bookdown_site
+---
+
+# About
+
+This book is to be used as a resource for vascular surgery trainees as a quick reference in caring for the vascular surgery patient based on the must up to date available evidence.
+
+## Usage 
+
+The goal is to have this be a quick reference with clear citations of evidence for the perioperative management of the vascular surgery patient.  Save this book in a place where you can find an navigate it easily.
+
+## Additional Resources
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```

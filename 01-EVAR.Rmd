@@ -1,0 +1,31 @@
+#	EVAR
+
+Patients with AAA and straightforward anatomy most often undergo EVAR in the elective setting and patients often leave the next day.  EVAR is more commonly used in the emergent or symptomatic setting and discharge is determined by patient stability and comorbidities.
+
+## Common Issues
+
+1. **Femoral access issues** - the majority of procedures are performed with percutaneous access, but many require a cut-down and arterial repair if there are issues with large bore femoral access.
+2. **Endoleak** - Most endoleaks should be corrected before leaving the OR, but some patients have small Type 1 or 2 endoleaks that can be watched and may seal on their own.  It is important for the team to be aware of patients with ongoing leaks in the perioperative period.
+3. **Acute graft syndrome** - Patients sometimes have a physiologic response to graft implantation that includes abdominal pain, fever, leukocytosis, and thrombocytopenia.  These patients should have a traditional fever workup to rule out other causes of sepsis, but if more dangerous etiologies are ruled out, this can be managed conservatively.
+4. **Colonic ischemia** - The IMA is covered in all of these procedures.  Rarely, this results in colonic ischemia.  This presents with worsening abdominal pain, bloody stools and signs of sepsis.   Immediate management should be resuscitation and endoscopy.
+
+## Post-op Pathway
+
+### POD 0
+  - Level of care: Stepdown
+  - Diet: Comorbidity specific diet
+  - Activity: Bedrest overnight
+  - Labs:
+    * PACU: CBC, Chem 7 depending blood loss and comorbidities
+    * AM: CBC, Chem 7
+  - Nursing:
+    * Neurovascular checks bilateral lower extremities
+  - Medications
+    * Pain control – non-opiates often sufficient
+    * Cardiac – restart home BP medications
+    * Antibiotics - 24hr perioperative abx (Ancef 2g q8 x2 doses)
+
+### POD 1-Discharge
+  - Level of care: Transfer to floor status or discharge home
+  - Activity: OOB with assistance and ambulate TID
+  - Wound care: Remove groin dressings

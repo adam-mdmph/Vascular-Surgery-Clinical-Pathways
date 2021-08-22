@@ -1,0 +1,23 @@
+# Lower Extremity Angiogram - Diagnostic or therapeutic
+
+We perform angiograms for many different reasons in vascular surgery, most frequently for peripheral vascular disease.  We often access via the femoral artery, but can also access through the upper extremity or distal in the lower extremity.  We sometimes perform debridements at the same time.  The majority of patients can go back to their primary team or are discharged the same day pending management of comorbidities.
+
+## Common issues
+1. **Femoral access issues** – the majority of procedures are performed with percutaneous access, but many require a cut-down and arterial repair if there are issues with large bore femoral access.  If you are called to evaluate determine hemodynamic stability of the patient, presence of hematoma, ecchymosis, pseudoaneurysm or active bleeding.  Most can be solved with additional pressure but may require a skin stitch or further evaluation with imaging.
+2. **Graft occlusion** - Any increasing pain, change in neuro exam, or loss of signals in the operative extremity should be escalated quickly as this can be a sign of early graft failure which is likely a technical issue and can be salvaged if acted upon quickly.
+
+## Post-op Pathway
+
+### POD 0
+- Level of care: Back to pre-operative service/room or discharged home
+- Diet: Comorbidity specific diet
+- Activity: Bedrest with HOB at 30 degrees for 4-6 hours depending on closure device and access size, to be determined by fellow or attending.
+- Labs: None
+- Nursing:
+  * Neurovascular and groin checks while in PACU
+- Wound care
+  * Remove dressings at 24hrs and can shower
+- Medications
+  * Pain - non-opiates usually sufficient
+  * Restart all home medications
+  * Heme - ASA, Plavix or AC load per attending/fellow pending placement of a stent

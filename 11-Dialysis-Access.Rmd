@@ -1,0 +1,27 @@
+# Dialysis Access
+
+We have a high volume of patients undergoing surgery for permanent dialysis access.  They either present as inpatient consults or outpatients who undergo same-day procedures.
+
+## Common issues
+1. **Access maturation** – We often need to address the acute need for dialysis with temporary catheters until access matures.  The earliest most surgical access can be used is 4-6wks post-operatively, but depends on maturation particularly for autogenous fistulas.
+2. **Bleeding** – Access ulcerations or bleeding after access in HD can be vascular emergencies.  Acute bleeding can often be controlled with a permanent figure of 8 stitch and a pressure dressing.  Depending on the extent of ulceration or severity of bleeding, then the patient should either be taken emergently to the OR for ligation/revision or evaluated for central stenosis via ultrasound.
+3. **Thrombosis** – these are often managed by medical teams and IR, but sometimes we are called to assist if it is relatively fresh access that we created.
+4. **Steal syndrome** – presents as acute or chronic limb ischemia, often associated with worsening pain, motor or sensory deficits.
+
+## Perioperative Pathway
+
+### Pre-op
+- Diet: NPO at midnight the night before the planned procedure
+- Radiology: Bilateral upper extremity venous mapping
+- Nursing:
+  * Limb alert on the non-dominant upper extremity, remove all IVs
+
+### POD 0
+- Level of care: Back to primary team or discharge to home
+- Diet: Renal diet
+- Activity: No heavy lifting in operated extremity
+- Nursing: Neurovascular checks until discharge from PACU
+- Wound care: All dressings should be removed, and dressing wound with dry gauze per patient preference
+
+### POD 1
+- Wound care: All dressings should be removed, and dressing wound with dry gauze per patient preference

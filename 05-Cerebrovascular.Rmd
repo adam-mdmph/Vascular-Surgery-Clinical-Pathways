@@ -1,0 +1,31 @@
+# Carotid Endarterectomy or Carotid stenting (TCAR)
+
+Most patients leave the next day after carotid artery procedures.
+
+## Common issues
+1. **Stroke** - the most dreaded complication after the carotid intervention is an ischemic cerebral event either from intra-operative hypo-perfusion, dissection flap or embolization.  Any neuro changes should be thoroughly evaluated and stroke should be ruled out if focal neurologic deficits persist.
+2. **Bleeding** - Bleeding from the carotid incision has high morbidity due to compromise of the airway.  Patients with increasing hematoma or signs of airway obstruction should be evaluated and escalated immediately.
+3. **Cerebral hyperperfusion syndrome** – Patients with very tight stenosis or bilateral disease can develop hyperperfusion, which presents as headache and hypertension.  This is very serious and if hypertension is not controlled can progress to seizures.
+
+## Post-op Pathway
+
+### POD 0
+- Level of care: 7 Hudson North Stepdown
+- Diet: NPO for 6 hours until the neuro exam is stable and then comorbidity specific diet
+- Activity: Bedrest for 6 hours until neuro exam stable and then OOB and ambulate TID
+- Labs: AM CBC and Chem 7
+- Nursing:
+  * Neuro checks for 6hrs postoperatively
+  * Wound checks
+  * D/C aline and foley at 6hrs if neuro checks stable
+- Medications
+  * Pain - non-opiates often sufficient
+  * Cardiac - resume all home BP meds with hold parameters for SBP <120 and HR < 50.  Order neo and Cardene trip to be available if SBP outside the range of 100 - 150.  Very important to avoid hypo or hypertension.
+  * Antibiotics – 24hr perioperative abx (Ancef 2g q8 x2 doses)
+  * Heme - DVT PPx, ASA +/- Plavix (per attending/fellow) on day of surgery
+
+### POD 1
+- Level of care: Transfer to floor or discharge home
+- Wound care:
+  * Remove dressing prior to discharge
+- Medications - Ensure all home medications are restarted

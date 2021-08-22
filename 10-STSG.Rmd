@@ -1,0 +1,25 @@
+# Split Thickness Skin Graft (STSG)
+
+These are often done for patients where we have chronically been managing their wounds, have had multiple debridements.  These may be wounds related to arterial disease, venous stasis, diabetes or trauma.  Patients stay at a minimum of 4-5 days until the initial operative dressing is removed.
+
+## Common issues
+1. **VAC malfunction** - most patients have a VAC coming out of the OR.  Ideally, the VAC stays in place without manipulation until the reveal.  If the VAC is malfunctioning it should be fixed ASAP and reinforced to ensure an adequate seal.  If it cannot be repaired it can be removed under the observation of a senior or attending.
+
+## Perioperative Pathway
+
+### POD 0-3
+- Level of care: Floor or pre-operative level of care, we often take these patients onto our service after STSG
+- Diet: Comorbidity specific diet
+- Activity: Bedrest, sometimes can be OOB with bathroom privileges
+- Labs:  AM CBC and Chem 7
+- Wound care:
+  * VAC at -125 mmHg at all times.  Normal VAC care by bedside nurse.
+- Medications
+  * Pain control - MMA
+  * Antibiotics - may need to continue abx in the perioperative period depending on the etiology of the underlying wound.
+  * Heme - DVT ppx, restart blood thinners 24-48hrs post-operatively.
+
+### POD 4
+- Activity:  OOB and ambulate TID
+- Wound care
+  * Remove VAC on AM rounds and dry dressing

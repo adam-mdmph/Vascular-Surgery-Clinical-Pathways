@@ -1,0 +1,55 @@
+# Thrombolysis
+
+Thrombolysis is a technique required in acute limb ischemia and sometimes used in more chronic occlusions.  These patients require a subsequent return to the OR for the management of thrombosis and underlying etiology.  Patients remain in ICU for 24-48hrs and in the hospital for up to a week pending clinical course.
+
+## Common issues
+1. **Bleeding** - catheter-based administration of TPA can cause system coagulopathy so these patients are monitored closely for bleeding with frequent labs and physical exams.  Bleeding can present as bleeding from the access site, retroperitoneal hematoma, GI bleed or stroke.
+
+## Perioperative Pathway
+
+### Pre-op
+- Medications
+  * 10mg tPA bolus
+  * tPA drip 12mg in 250cc - add comment “To be administered through the thrombolysis catheter, DO NOT mix until notified by the OR staff”
+  * Heparin 300u - add comment “To be administered through the arterial sheath.”
+
+### POD 0
+- Level of care: SICU
+- Diet: Clear liquids, advance to comorbidity specific diet on POC
+- Activity: Bedrest
+- Labs: q6 CBC, PTT, PT/INR, fibrinogen, active T&S at all times
+- Nursing:
+  * Neuro checks
+  * Neurovascular checks of affected extremities
+  * Catheter care
+  * Frequent exams for signs of bleeding
+- Wound care
+  * The access site is secured with ioban.  Notify fellow/attending for signs of bleeding that are saturating access site dressing
+- Medications
+  * Pain - non-opiates usually sufficient, however if in the setting of acute ischemia, may need a PCA as the leg slowly revascularizes
+  * Infectious disease - Keep patient on antibiotics while lysis catheter is in place.
+  * Heme
+      + tPA 0.5-2 mg/hr through the thrombolysis catheter, need to remind SICU to reorder. Titrate per attending/fellow based on fibrinogen.
+      + Heparin 300 through the access sheath.  This is not titrated based on PTT.
+      + No systemic anticoagulation.
+      + Can continue antiplatelet medications
+- Additional
+  * Should be carded and consented from angiogram/plasty/stent the following day.
+
+### POD 1
+- Level of care: Return to OR, then stepdown or ICU (if catheter left in place)
+- Diet: Comorbidity specific diet after procedure and thrombolysis catheter removed.
+- Activity: Bedrest with HOB at 30 degrees for 4-6 hours depending on closure device and access size, to be determined by fellow or attending. 
+- Labs:
+  * PACU: CBC, q6 PTT (if on heparin drip for systemic anticoagulation)
+  * AM: CBC, Chem 7, PTT, PT/INR
+- Medications
+  * Heme - Anticoagulation per attending/fellow
+
+### POD 2-discharge
+- Level of care: Floor status if no cardiac or bleeding events
+- Activity: OOB ambulate TID
+- Labs: AM CBC, Chem 7, PTT, PT/INR
+- Wound care: All dressings should be removed, and dressing wound with dry gauze per patient preference
+- Medications
+  * Heme - transition to oral anticoagulation
